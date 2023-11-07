@@ -1,0 +1,67 @@
+instructions on how to beat our initial game: 
+
+first room:
+
+examine room (optional)
+examine orb (optional)
+pickup orb
+move East
+
+
+second room:
+
+
+examine room (optional)
+examine pedestal (optional)
+use orb pedestal
+
+
+other things you can do: 
+help (optional)
+use orb (optional) (only if orb is in inventory)
+move West (optional) (if you are in the pedestal room)
+
+
+
+Riddle Answers:
+
+Room Name: The Abyssal Chamber
+Riddle: Alive without breath, as cold as death. Clad in mail, never clinking. Ever drinking, never blinking. What am I?
+Answer: Fish
+
+Room Name: Catacombs of the Forsaken
+Riddle: I am not your right, but I am not wrong. What am I?
+Answer: Left
+
+Room Name: The Labyrinth of Echoes
+Riddle: Tall when young, short when old, and every day I light the household. What am I?
+Answer: Candle
+
+Room Name: The Spiral Descent
+Riddle: I fly without wings, I cry without eyes. Wherever I go, darkness follows me. What am I?
+Answer: Cloud
+
+Room Name: Chamber of the Riddle Keeper
+Riddle: Go to Room 8 to seek the answer;
+Answer: Echo
+
+Room Name: Baal's Echoing Chamber
+Riddle: Speak the ancient code to seal his fate
+Answer: 528
+
+
+
+
+Key Location:
+Room: Whispering Catacombs
+Key: Occultist Gate Key: A key that unlocks the Occultist Gate
+Gate: Gate 1 -  Occultist Gate.
+
+Room: Catacombs of the Forsaken
+Key: Demonic Gate Key
+Gate: Gate 2 - Demonic Gate (Just before last room).
+
+
+
+
+

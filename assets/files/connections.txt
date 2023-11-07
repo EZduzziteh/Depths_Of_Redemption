@@ -1,0 +1,13 @@
+1;North;2;NoGate
+1;East;4;NoGate
+2;East;3;NoGate
+4;North;3;NoGate
+4;South;5;NoGate
+5;West;6;NoGate
+5;East;7;Gate;occult-key;A key that unlocks the Occultist Gate;occult-gate;null;null;null;
+7;East;8;NoGate
+7;North;9;NoGate
+9;North;10;NoGate
+10;North;11;NoGate
+10;East;12;NoGate
+12;South;13;Gate;demon-key;A key made of the blood of Hel, The Ancient One;demon-gate;null; null; null;

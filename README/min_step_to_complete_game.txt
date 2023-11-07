@@ -1,0 +1,38 @@
+minimum steps to beat game:
+
+move east
+move north
+pickup rib-coin (vault of the gilded remnant)
+move south
+move south
+move west
+answer left (sanctuary of the gilded fragment)
+use rib-coin skull-coin (combines them to create skeletal coin)
+move east
+move north
+move west
+give skeletal-coin rigamort (gets the occult key)
+move east
+move south
+unlock occult-gate
+move east
+candle (answer to the trap riddle)
+move north
+move north
+cloud (answer to the trap riddle)
+move north
+answer echo (chamber of the riddle keeper, get shovel)
+move south
+move south
+move south
+move west
+move north
+use shovel fiery-grave (catacombs of the forsaken, get the demon-key)
+move south
+move east
+move north
+move north
+move east
+unlock demon-gate (fractured corridor)
+move south
+528 (the code to defeat the boss is found scrawled on walls throughout the dungeon, players have to use the examine command to find them!)

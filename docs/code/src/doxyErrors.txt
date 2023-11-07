@@ -1,0 +1,503 @@
+/home/jp/Documents/project-1/include/Character.h:11: warning: Compound Character is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:18: warning: Compound CommandManager is not documented.
+/home/jp/Documents/project-1/include/Gate.h:7: warning: Compound Gate is not documented.
+/home/jp/Documents/project-1/include/HealthItem.h:6: warning: Compound HealthItem is not documented.
+/home/jp/Documents/project-1/include/IOManager.h:16: warning: Compound IOManager is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:13: warning: Compound Interactable is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:11: warning: Compound Inventory is not documented.
+/home/jp/Documents/project-1/include/Item.h:6: warning: Compound Item is not documented.
+/home/jp/Documents/project-1/include/ItemRoom.h:9: warning: Compound ItemRoom is not documented.
+/home/jp/Documents/project-1/include/KeyItem.h:8: warning: Compound KeyItem is not documented.
+/home/jp/Documents/project-1/include/KeyPuzzle.h:13: warning: Compound KeyPuzzle is not documented.
+/home/jp/Documents/project-1/include/Map.h:6: warning: Compound Map is not documented.
+/home/jp/Documents/project-1/include/NPC.h:12: warning: Compound NPC is not documented.
+/home/jp/Documents/project-1/include/NPCRoom.h:9: warning: Compound NPCRoom is not documented.
+/home/jp/Documents/project-1/include/Player.h:9: warning: Compound Player is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:12: warning: Compound Puzzle is not documented.
+/home/jp/Documents/project-1/include/PuzzleItem.h:7: warning: Compound PuzzleItem is not documented.
+/home/jp/Documents/project-1/include/PuzzleRoom.h:9: warning: Compound PuzzleRoom is not documented.
+/home/jp/Documents/project-1/include/Quest.h:10: warning: Compound Quest is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:8: warning: Compound Riddle is not documented.
+/home/jp/Documents/project-1/include/Room.h:12: warning: Compound Room is not documented.
+/home/jp/Documents/project-1/include/Trap.h:10: warning: Compound Trap is not documented.
+/home/jp/Documents/project-1/include/TrapRoom.h:9: warning: Compound TrapRoom is not documented.
+/home/jp/Documents/project-1/include/Character.h:21: warning: Member Character(Inventory *characterInventory, string characterName) (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:24: warning: Member getCharacterName() const (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:25: warning: Member getCharacterInventory() const (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:28: warning: Member setCharacterName(const string &name) (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:29: warning: Member setCharacterInventory(Inventory *inventory) (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:13: warning: Member characterName (variable) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:14: warning: Member characterInventory (variable) of class Character is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:20: warning: Member Command (enumeration) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:37: warning: Member GetCommand() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:39: warning: Member Help() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:44: warning: Member ExecuteCommand(Command cmd) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:45: warning: Member ExecuteCommand(Command cmd, string subject1) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:46: warning: Member ExecuteCommand(Command cmd, string subject1, string subject2) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:47: warning: Member Move() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:48: warning: Member Move(string direction) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:49: warning: Member Use() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:50: warning: Member Use(string subject1) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:51: warning: Member Use(string subject1, std::string subject2) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:52: warning: Member Examine() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:53: warning: Member Examine(string subject1) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:54: warning: Member PickUp() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:55: warning: Member PickUp(string subject1) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:56: warning: Member Talk() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:57: warning: Member Talk(string subject1) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:58: warning: Member Answer() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:59: warning: Member Answer(string subject1) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:60: warning: Member Inventory() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:61: warning: Member Quit() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:62: warning: Member Give() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:63: warning: Member Give(string subject1, string subject2) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:64: warning: Member Unlock() (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:65: warning: Member Unlock(string subject1) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:66: warning: Member TrapRiddleChecker(Riddle riddle, string answer) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:68: warning: Member StringToCommand(string cmd) (function) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/CommandManager.h:34: warning: Member player (variable) of class CommandManager is not documented.
+/home/jp/Documents/project-1/include/Gate.h:15: warning: Member Gate(KeyItem *item) (function) of class Gate is not documented.
+/home/jp/Documents/project-1/include/Gate.h:16: warning: Member isLocked() const (function) of class Gate is not documented.
+/home/jp/Documents/project-1/include/Gate.h:17: warning: Member getKeyItem() const (function) of class Gate is not documented.
+/home/jp/Documents/project-1/include/Gate.h:18: warning: Member setKey(KeyItem *key) (function) of class Gate is not documented.
+/home/jp/Documents/project-1/include/Gate.h:20: warning: Member unlock() (function) of class Gate is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:18: warning: Member getName() (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:19: warning: Member getDescription() (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:20: warning: Member getItemToBeUsedWith() (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:21: warning: Member setItemToBeUsedWith(string item) (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:22: warning: Member Interact() (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:25: warning: Member description (variable) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:26: warning: Member name (variable) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:27: warning: Member itemToBeUsedWith (variable) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Gate.h:9: warning: Member keyItem (variable) of class Gate is not documented.
+/home/jp/Documents/project-1/include/Gate.h:10: warning: Member locked (variable) of class Gate is not documented.
+/home/jp/Documents/project-1/include/HealthItem.h:16: warning: Member HealthItem(int healthVal) (function) of class HealthItem is not documented.
+/home/jp/Documents/project-1/include/HealthItem.h:22: warning: Member getHealthValue() const (function) of class HealthItem is not documented.
+/home/jp/Documents/project-1/include/HealthItem.h:23: warning: Member isUsed() const (function) of class HealthItem is not documented.
+/home/jp/Documents/project-1/include/HealthItem.h:26: warning: Member setHealthValue(int value) (function) of class HealthItem is not documented.
+/home/jp/Documents/project-1/include/HealthItem.h:27: warning: Member use() (function) of class HealthItem is not documented.
+/home/jp/Documents/project-1/include/Item.h:29: warning: Member operator==(const Item &other) const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:32: warning: Member getItemName() const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:34: warning: Member setItemName(const std::string &name) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:36: warning: Member getItemDescription() const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:38: warning: Member setItemDescription(const std::string &description) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:39: warning: Member setItemProduced(const std::string &name) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:40: warning: Member ProduceItem() (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:20: warning: Member canBeUsed (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:21: warning: Member hasBeenUsed (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:24: warning: Member itemToBeUsedWith (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:25: warning: Member itemProduced (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:26: warning: Member itemProducedDescription (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:27: warning: Member itemProducedToBeUsedWith (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:28: warning: Member hasBeenPickedUp (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/HealthItem.h:8: warning: Member healthValue (variable) of class HealthItem is not documented.
+/home/jp/Documents/project-1/include/HealthItem.h:9: warning: Member used (variable) of class HealthItem is not documented.
+/home/jp/Documents/project-1/include/Item.h:8: warning: Member itemName (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:9: warning: Member itemDescription (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:16: warning: Member Interactable(string name, string description) (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:18: warning: Member getName() (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:19: warning: Member getDescription() (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:20: warning: Member getItemToBeUsedWith() (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:21: warning: Member setItemToBeUsedWith(string item) (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:22: warning: Member Interact() (function) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:25: warning: Member description (variable) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:26: warning: Member name (variable) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Interactable.h:27: warning: Member itemToBeUsedWith (variable) of class Interactable is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:19: warning: Member GetItems() const (function) of class Inventory is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:20: warning: Member AddItem(Item *item) (function) of class Inventory is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:21: warning: Member DeleteItem(const Item &item) (function) of class Inventory is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:23: warning: Member IsEmpty() const (function) of class Inventory is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:24: warning: Member ItemExists(const Item &item) const (function) of class Inventory is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:25: warning: Member ClearInventory() (function) of class Inventory is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:26: warning: Member ShowInventory() (function) of class Inventory is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:27: warning: Member RemoveItem(int index) (function) of class Inventory is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:28: warning: Member RemoveItem(std::string itemName) (function) of class Inventory is not documented.
+/home/jp/Documents/project-1/include/Inventory.h:13: warning: Member items (variable) of class Inventory is not documented.
+/home/jp/Documents/project-1/include/IOManager.h:35: warning: Member generateMapFromFile() (function) of class IOManager is not documented.
+/home/jp/Documents/project-1/include/IOManager.h:19: warning: Member createBasicRoom(std::istringstream &iss) (function) of class IOManager is not documented.
+/home/jp/Documents/project-1/include/IOManager.h:20: warning: Member createItemRoom(std::istringstream &iss) (function) of class IOManager is not documented.
+/home/jp/Documents/project-1/include/IOManager.h:21: warning: Member createNPCRoom(std::istringstream &iss) (function) of class IOManager is not documented.
+/home/jp/Documents/project-1/include/IOManager.h:22: warning: Member createPuzzleRoom(std::istringstream &iss) (function) of class IOManager is not documented.
+/home/jp/Documents/project-1/include/IOManager.h:23: warning: Member createTrapRoom(std::istringstream &iss) (function) of class IOManager is not documented.
+/home/jp/Documents/project-1/include/IOManager.h:29: warning: Member loadConnections(Map *map, std::vector< Room * > *rooms) (function) of class IOManager is not documented.
+/home/jp/Documents/project-1/include/IOManager.h:24: warning: Member roomsFileLocation (variable) of class IOManager is not documented.
+/home/jp/Documents/project-1/include/IOManager.h:25: warning: Member connectionsFileLocation (variable) of class IOManager is not documented.
+/home/jp/Documents/project-1/include/Item.h:15: warning: Member Item(const std::string &name, const std::string &description, const std::string &itemToBeUsedWith, const std::string &itemProduced, const std::string &itemProducedDescription, const std::string &itemProducedToBeUsedWith) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:29: warning: Member operator==(const Item &other) const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:32: warning: Member getItemName() const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:34: warning: Member setItemName(const std::string &name) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:36: warning: Member getItemDescription() const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:38: warning: Member setItemDescription(const std::string &description) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:39: warning: Member setItemProduced(const std::string &name) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:40: warning: Member ProduceItem() (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:20: warning: Member canBeUsed (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:21: warning: Member hasBeenUsed (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:24: warning: Member itemToBeUsedWith (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:25: warning: Member itemProduced (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:26: warning: Member itemProducedDescription (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:27: warning: Member itemProducedToBeUsedWith (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:28: warning: Member hasBeenPickedUp (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:8: warning: Member itemName (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:9: warning: Member itemDescription (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/ItemRoom.h:18: warning: Member ItemRoom(std::string roomName) (function) of class ItemRoom is not documented.
+/home/jp/Documents/project-1/include/ItemRoom.h:21: warning: Member ItemRoom(KeyItem *item) (function) of class ItemRoom is not documented.
+/home/jp/Documents/project-1/include/ItemRoom.h:24: warning: Member ItemRoom(unsigned roomNumber, std::string roomName, std::string roomDescription, bool firstRoom=false, bool lastRoom=false, Room *northRoom=nullptr, Room *eastRoom=nullptr, Room *southRoom=nullptr, Room *westRoom=nullptr, Gate *northGate=nullptr, Gate *eastGate=nullptr, Gate *southGate=nullptr, Gate *westGate=nullptr, KeyItem *item=nullptr) (function) of class ItemRoom is not documented.
+/home/jp/Documents/project-1/include/ItemRoom.h:36: warning: Member getRoomItem() const (function) of class ItemRoom is not documented.
+/home/jp/Documents/project-1/include/ItemRoom.h:39: warning: Member setRoomItem(KeyItem *item) (function) of class ItemRoom is not documented.
+/home/jp/Documents/project-1/include/Room.h:45: warning: Member getRoomNumber() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:46: warning: Member getRoomName() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:49: warning: Member AddInteractable(const Interactable &interactable) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:52: warning: Member getRoomDescription() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:53: warning: Member getNorthRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:54: warning: Member getSouthRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:55: warning: Member getEastRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:56: warning: Member getWestRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:57: warning: Member isFirstRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:58: warning: Member isLastRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:61: warning: Member setRoomDescription(const string &description) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:62: warning: Member setNorthRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:63: warning: Member setSouthRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:64: warning: Member setEastRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:65: warning: Member setWestRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:66: warning: Member setFirstRoom(bool is_first) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:67: warning: Member setLastRoom(bool is_last) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:70: warning: Member hasGateInDirection(const string &direction) const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:71: warning: Member isGateLockedInDirection(const string &direction) const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:72: warning: Member getGateInDirection(const string &direction) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:73: warning: Member setNorthGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:74: warning: Member setEastGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:75: warning: Member setSouthGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:76: warning: Member setWestGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:24: warning: Member northGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:25: warning: Member eastGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:26: warning: Member southGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:27: warning: Member westGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:48: warning: Member interactables (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:30: warning: Member roomDescription (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/ItemRoom.h:11: warning: Member roomItem (variable) of class ItemRoom is not documented.
+/home/jp/Documents/project-1/include/Room.h:14: warning: Member roomNumber (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:15: warning: Member roomName (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:16: warning: Member northRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:17: warning: Member southRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:18: warning: Member eastRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:19: warning: Member westRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:20: warning: Member firstRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:21: warning: Member lastRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/KeyItem.h:17: warning: Member KeyItem(const std::string &name, const std::string &description, const std::string &itemToBeUsedWith, const std::string &itemProduced, const std::string &itemProducedDescription, const std::string &itemProducedToBeUsedWith) (function) of class KeyItem is not documented.
+/home/jp/Documents/project-1/include/KeyItem.h:23: warning: Member isUsed() const (function) of class KeyItem is not documented.
+/home/jp/Documents/project-1/include/KeyItem.h:26: warning: Member setUsed(bool value) (function) of class KeyItem is not documented.
+/home/jp/Documents/project-1/include/Item.h:29: warning: Member operator==(const Item &other) const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:32: warning: Member getItemName() const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:34: warning: Member setItemName(const std::string &name) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:36: warning: Member getItemDescription() const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:38: warning: Member setItemDescription(const std::string &description) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:39: warning: Member setItemProduced(const std::string &name) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:40: warning: Member ProduceItem() (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:20: warning: Member canBeUsed (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:21: warning: Member hasBeenUsed (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:24: warning: Member itemToBeUsedWith (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:25: warning: Member itemProduced (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:26: warning: Member itemProducedDescription (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:27: warning: Member itemProducedToBeUsedWith (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:28: warning: Member hasBeenPickedUp (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/KeyItem.h:10: warning: Member used (variable) of class KeyItem is not documented.
+/home/jp/Documents/project-1/include/Item.h:8: warning: Member itemName (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:9: warning: Member itemDescription (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:29: warning: Member getPuzzleRiddle() const (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:30: warning: Member getRewardItem() const (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:31: warning: Member getPuzzleSpecificItem() const (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:32: warning: Member getPuzzleInformation() const (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:33: warning: Member isPuzzleComplete() const (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:35: warning: Member setPuzzleRiddle(Riddle *riddle) (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:36: warning: Member setRewardItem(Item *item) (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:37: warning: Member setPuzzleSpecificItem(PuzzleItem *specificItem) (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:38: warning: Member setPuzzleInformation(const string &info) (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:39: warning: Member CompletePuzzle() (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:14: warning: Member puzzleRiddle (variable) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:15: warning: Member rewardItem (variable) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:16: warning: Member puzzleSpecificItem (variable) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:17: warning: Member puzzleInformation (variable) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:18: warning: Member puzzleComplete (variable) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Map.h:14: warning: Member Map(Room *startingRoom) (function) of class Map is not documented.
+/home/jp/Documents/project-1/include/Map.h:17: warning: Member addRoomNorthOf(Room *baseRoom, Room *newRoom) (function) of class Map is not documented.
+/home/jp/Documents/project-1/include/Map.h:18: warning: Member addRoomSouthOf(Room *baseRoom, Room *newRoom) (function) of class Map is not documented.
+/home/jp/Documents/project-1/include/Map.h:19: warning: Member addRoomEastOf(Room *baseRoom, Room *newRoom) (function) of class Map is not documented.
+/home/jp/Documents/project-1/include/Map.h:20: warning: Member addRoomWestOf(Room *baseRoom, Room *newRoom) (function) of class Map is not documented.
+/home/jp/Documents/project-1/include/Map.h:22: warning: Member setStartingRoom(Room *startingRoom) (function) of class Map is not documented.
+/home/jp/Documents/project-1/include/Map.h:23: warning: Member setLastRoom(Room *lastRoom) (function) of class Map is not documented.
+/home/jp/Documents/project-1/include/Map.h:24: warning: Member getLastRoom() const (function) of class Map is not documented.
+/home/jp/Documents/project-1/include/Map.h:25: warning: Member getStartingRoom() const (function) of class Map is not documented.
+/home/jp/Documents/project-1/include/Map.h:8: warning: Member startingRoom (variable) of class Map is not documented.
+/home/jp/Documents/project-1/include/Map.h:10: warning: Member lastRoom (variable) of class Map is not documented.
+/home/jp/Documents/project-1/include/NPC.h:22: warning: Member NPC(Inventory *characterInventory, string characterName, const Quest &quest, const string &welcomeMessage) (function) of class NPC is not documented.
+/home/jp/Documents/project-1/include/NPC.h:26: warning: Member getQuest() const (function) of class NPC is not documented.
+/home/jp/Documents/project-1/include/NPC.h:29: warning: Member setQuest(const Quest &quest) (function) of class NPC is not documented.
+/home/jp/Documents/project-1/include/NPC.h:32: warning: Member getWelcomeMessage() const (function) of class NPC is not documented.
+/home/jp/Documents/project-1/include/NPC.h:35: warning: Member setWelcomeMessage(const string &message) (function) of class NPC is not documented.
+/home/jp/Documents/project-1/include/Character.h:24: warning: Member getCharacterName() const (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:25: warning: Member getCharacterInventory() const (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:28: warning: Member setCharacterName(const string &name) (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:29: warning: Member setCharacterInventory(Inventory *inventory) (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/NPC.h:14: warning: Member quest (variable) of class NPC is not documented.
+/home/jp/Documents/project-1/include/NPC.h:15: warning: Member welcomeMessage (variable) of class NPC is not documented.
+/home/jp/Documents/project-1/include/Character.h:13: warning: Member characterName (variable) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:14: warning: Member characterInventory (variable) of class Character is not documented.
+/home/jp/Documents/project-1/include/NPCRoom.h:18: warning: Member NPCRoom(std::string name, NPC *npc) (function) of class NPCRoom is not documented.
+/home/jp/Documents/project-1/include/NPCRoom.h:21: warning: Member NPCRoom(unsigned number, std::string name, NPC *npc, std::string description="", bool firstRoom=false, bool lastRoom=false, Room *northRoom=nullptr, Room *eastRoom=nullptr, Room *southRoom=nullptr, Room *westRoom=nullptr, Gate *northGate=nullptr, Gate *eastGate=nullptr, Gate *southGate=nullptr, Gate *westGate=nullptr) (function) of class NPCRoom is not documented.
+/home/jp/Documents/project-1/include/NPCRoom.h:33: warning: Member getResidentNPC() const (function) of class NPCRoom is not documented.
+/home/jp/Documents/project-1/include/NPCRoom.h:36: warning: Member setResidentNPC(NPC *npc) (function) of class NPCRoom is not documented.
+/home/jp/Documents/project-1/include/Room.h:45: warning: Member getRoomNumber() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:46: warning: Member getRoomName() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:49: warning: Member AddInteractable(const Interactable &interactable) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:52: warning: Member getRoomDescription() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:53: warning: Member getNorthRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:54: warning: Member getSouthRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:55: warning: Member getEastRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:56: warning: Member getWestRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:57: warning: Member isFirstRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:58: warning: Member isLastRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:61: warning: Member setRoomDescription(const string &description) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:62: warning: Member setNorthRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:63: warning: Member setSouthRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:64: warning: Member setEastRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:65: warning: Member setWestRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:66: warning: Member setFirstRoom(bool is_first) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:67: warning: Member setLastRoom(bool is_last) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:70: warning: Member hasGateInDirection(const string &direction) const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:71: warning: Member isGateLockedInDirection(const string &direction) const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:72: warning: Member getGateInDirection(const string &direction) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:73: warning: Member setNorthGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:74: warning: Member setEastGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:75: warning: Member setSouthGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:76: warning: Member setWestGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:24: warning: Member northGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:25: warning: Member eastGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:26: warning: Member southGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:27: warning: Member westGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:48: warning: Member interactables (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:30: warning: Member roomDescription (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/NPCRoom.h:11: warning: Member residentNPC (variable) of class NPCRoom is not documented.
+/home/jp/Documents/project-1/include/Room.h:14: warning: Member roomNumber (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:15: warning: Member roomName (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:16: warning: Member northRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:17: warning: Member southRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:18: warning: Member eastRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:19: warning: Member westRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:20: warning: Member firstRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:21: warning: Member lastRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Player.h:15: warning: Member Player(string playerName) (function) of class Player is not documented.
+/home/jp/Documents/project-1/include/Player.h:18: warning: Member Player(const string &playerName, Inventory *playerInventory, Room *startRoom, int startHealth=100) (function) of class Player is not documented.
+/home/jp/Documents/project-1/include/Player.h:22: warning: Member getCurrentRoom() const (function) of class Player is not documented.
+/home/jp/Documents/project-1/include/Player.h:23: warning: Member setCurrentRoom(Room *room) (function) of class Player is not documented.
+/home/jp/Documents/project-1/include/Player.h:24: warning: Member getPlayerHealth() const (function) of class Player is not documented.
+/home/jp/Documents/project-1/include/Player.h:25: warning: Member setPlayerHealth(int h) (function) of class Player is not documented.
+/home/jp/Documents/project-1/include/Character.h:24: warning: Member getCharacterName() const (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:25: warning: Member getCharacterInventory() const (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:28: warning: Member setCharacterName(const string &name) (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:29: warning: Member setCharacterInventory(Inventory *inventory) (function) of class Character is not documented.
+/home/jp/Documents/project-1/include/Player.h:11: warning: Member currentRoom (variable) of class Player is not documented.
+/home/jp/Documents/project-1/include/Player.h:12: warning: Member playerHealth (variable) of class Player is not documented.
+/home/jp/Documents/project-1/include/Character.h:13: warning: Member characterName (variable) of class Character is not documented.
+/home/jp/Documents/project-1/include/Character.h:14: warning: Member characterInventory (variable) of class Character is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:22: warning: Member Puzzle(Item *rewardItem, const string &info, PuzzleItem *pItem=nullptr, Riddle *puzzleRiddle=nullptr, bool isComplete=false) (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:29: warning: Member getPuzzleRiddle() const (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:30: warning: Member getRewardItem() const (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:31: warning: Member getPuzzleSpecificItem() const (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:32: warning: Member getPuzzleInformation() const (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:33: warning: Member isPuzzleComplete() const (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:35: warning: Member setPuzzleRiddle(Riddle *riddle) (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:36: warning: Member setRewardItem(Item *item) (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:37: warning: Member setPuzzleSpecificItem(PuzzleItem *specificItem) (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:38: warning: Member setPuzzleInformation(const string &info) (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:39: warning: Member CompletePuzzle() (function) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:14: warning: Member puzzleRiddle (variable) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:15: warning: Member rewardItem (variable) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:16: warning: Member puzzleSpecificItem (variable) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:17: warning: Member puzzleInformation (variable) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/Puzzle.h:18: warning: Member puzzleComplete (variable) of class Puzzle is not documented.
+/home/jp/Documents/project-1/include/PuzzleItem.h:14: warning: Member PuzzleItem(const std::string &name, const std::string &description, const std::string &completeDesc, const std::string &incompleteDesc, const std::string &itemToBeUsedWith, const std::string &itemProduced, const std::string &itemProducedDescription, const std::string &itemProducedToBeUsedWith) (function) of class PuzzleItem is not documented.
+/home/jp/Documents/project-1/include/PuzzleItem.h:23: warning: Member getPuzzleCompleteDesc() const (function) of class PuzzleItem is not documented.
+/home/jp/Documents/project-1/include/PuzzleItem.h:24: warning: Member getPuzzleIncompleteDesc() const (function) of class PuzzleItem is not documented.
+/home/jp/Documents/project-1/include/PuzzleItem.h:26: warning: Member setPuzzleCompleteDesc(const std::string &desc) (function) of class PuzzleItem is not documented.
+/home/jp/Documents/project-1/include/PuzzleItem.h:27: warning: Member setPuzzleIncompleteDesc(const std::string &desc) (function) of class PuzzleItem is not documented.
+/home/jp/Documents/project-1/include/Item.h:29: warning: Member operator==(const Item &other) const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:32: warning: Member getItemName() const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:34: warning: Member setItemName(const std::string &name) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:36: warning: Member getItemDescription() const (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:38: warning: Member setItemDescription(const std::string &description) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:39: warning: Member setItemProduced(const std::string &name) (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:40: warning: Member ProduceItem() (function) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:20: warning: Member canBeUsed (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:21: warning: Member hasBeenUsed (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:24: warning: Member itemToBeUsedWith (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:25: warning: Member itemProduced (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:26: warning: Member itemProducedDescription (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:27: warning: Member itemProducedToBeUsedWith (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:28: warning: Member hasBeenPickedUp (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/PuzzleItem.h:9: warning: Member puzzleCompleteDesc (variable) of class PuzzleItem is not documented.
+/home/jp/Documents/project-1/include/PuzzleItem.h:10: warning: Member puzzleIncompleteDesc (variable) of class PuzzleItem is not documented.
+/home/jp/Documents/project-1/include/Item.h:8: warning: Member itemName (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/Item.h:9: warning: Member itemDescription (variable) of class Item is not documented.
+/home/jp/Documents/project-1/include/PuzzleRoom.h:18: warning: Member PuzzleRoom(std::string roomName) (function) of class PuzzleRoom is not documented.
+/home/jp/Documents/project-1/include/PuzzleRoom.h:21: warning: Member PuzzleRoom(Puzzle *puzzle) (function) of class PuzzleRoom is not documented.
+/home/jp/Documents/project-1/include/PuzzleRoom.h:24: warning: Member PuzzleRoom(std::string roomName, Puzzle *puzzle) (function) of class PuzzleRoom is not documented.
+/home/jp/Documents/project-1/include/PuzzleRoom.h:27: warning: Member PuzzleRoom(unsigned roomNumber, std::string roomName, std::string roomDescription, Puzzle *puzzle) (function) of class PuzzleRoom is not documented.
+/home/jp/Documents/project-1/include/PuzzleRoom.h:31: warning: Member PuzzleRoom(unsigned roomNumber, std::string roomName, std::string roomDescription, bool firstRoom, bool lastRoom, Room *northRoom, Room *eastRoom, Room *southRoom, Room *westRoom, Gate *northGate, Gate *eastGate, Gate *southGate, Gate *westGate, Puzzle *puzzle) (function) of class PuzzleRoom is not documented.
+/home/jp/Documents/project-1/include/PuzzleRoom.h:41: warning: Member getRoomPuzzle() const (function) of class PuzzleRoom is not documented.
+/home/jp/Documents/project-1/include/PuzzleRoom.h:44: warning: Member setRoomPuzzle(Puzzle *puzzle) (function) of class PuzzleRoom is not documented.
+/home/jp/Documents/project-1/include/Room.h:45: warning: Member getRoomNumber() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:46: warning: Member getRoomName() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:49: warning: Member AddInteractable(const Interactable &interactable) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:52: warning: Member getRoomDescription() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:53: warning: Member getNorthRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:54: warning: Member getSouthRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:55: warning: Member getEastRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:56: warning: Member getWestRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:57: warning: Member isFirstRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:58: warning: Member isLastRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:61: warning: Member setRoomDescription(const string &description) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:62: warning: Member setNorthRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:63: warning: Member setSouthRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:64: warning: Member setEastRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:65: warning: Member setWestRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:66: warning: Member setFirstRoom(bool is_first) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:67: warning: Member setLastRoom(bool is_last) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:70: warning: Member hasGateInDirection(const string &direction) const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:71: warning: Member isGateLockedInDirection(const string &direction) const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:72: warning: Member getGateInDirection(const string &direction) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:73: warning: Member setNorthGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:74: warning: Member setEastGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:75: warning: Member setSouthGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:76: warning: Member setWestGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:24: warning: Member northGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:25: warning: Member eastGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:26: warning: Member southGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:27: warning: Member westGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:48: warning: Member interactables (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:30: warning: Member roomDescription (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/PuzzleRoom.h:11: warning: Member roomPuzzle (variable) of class PuzzleRoom is not documented.
+/home/jp/Documents/project-1/include/Room.h:14: warning: Member roomNumber (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:15: warning: Member roomName (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:16: warning: Member northRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:17: warning: Member southRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:18: warning: Member eastRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:19: warning: Member westRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:20: warning: Member firstRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:21: warning: Member lastRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Quest.h:18: warning: Member Quest(const string &description, const Item &item) (function) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Quest.h:20: warning: Member getQuestDescription() const (function) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Quest.h:21: warning: Member isQuestComplete() const (function) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Quest.h:22: warning: Member getRequiredItem() const (function) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Quest.h:24: warning: Member setQuestDescription(const string &description) (function) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Quest.h:25: warning: Member setQuestComplete(bool complete) (function) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Quest.h:26: warning: Member setRequiredItem(const Item &item) (function) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Quest.h:28: warning: Member checkCompletion(const Item &providedItem) (function) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Quest.h:12: warning: Member questDescription (variable) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Quest.h:13: warning: Member questComplete (variable) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Quest.h:14: warning: Member requiredItem (variable) of class Quest is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:16: warning: Member Riddle(const string &info, const string &answer) (function) of class Riddle is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:19: warning: Member getRiddleInfo() const (function) of class Riddle is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:20: warning: Member getRiddleAnswer() const (function) of class Riddle is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:21: warning: Member isRiddleSolved() const (function) of class Riddle is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:24: warning: Member setRiddleInfo(const string &info) (function) of class Riddle is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:25: warning: Member setRiddleAnswer(const string &answer) (function) of class Riddle is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:26: warning: Member setRiddleSolved(bool solved) (function) of class Riddle is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:10: warning: Member riddleInfo (variable) of class Riddle is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:11: warning: Member riddleAnswer (variable) of class Riddle is not documented.
+/home/jp/Documents/project-1/include/Riddle.h:12: warning: Member riddleSolved (variable) of class Riddle is not documented.
+/home/jp/Documents/project-1/include/Room.h:34: warning: Member Room(string roomName) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:35: warning: Member Room(unsigned roomNumber, string roomName, string roomDescription="", bool firstRoom=false, bool lastRoom=false, Room *northRoom=nullptr, Room *eastRoom=nullptr, Room *southRoom=nullptr, Room *westRoom=nullptr, Gate *northGate=nullptr, Gate *eastGate=nullptr, Gate *southGate=nullptr, Gate *westGate=nullptr) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:45: warning: Member getRoomNumber() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:46: warning: Member getRoomName() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:49: warning: Member AddInteractable(const Interactable &interactable) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:52: warning: Member getRoomDescription() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:53: warning: Member getNorthRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:54: warning: Member getSouthRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:55: warning: Member getEastRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:56: warning: Member getWestRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:57: warning: Member isFirstRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:58: warning: Member isLastRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:61: warning: Member setRoomDescription(const string &description) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:62: warning: Member setNorthRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:63: warning: Member setSouthRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:64: warning: Member setEastRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:65: warning: Member setWestRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:66: warning: Member setFirstRoom(bool is_first) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:67: warning: Member setLastRoom(bool is_last) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:70: warning: Member hasGateInDirection(const string &direction) const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:71: warning: Member isGateLockedInDirection(const string &direction) const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:72: warning: Member getGateInDirection(const string &direction) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:73: warning: Member setNorthGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:74: warning: Member setEastGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:75: warning: Member setSouthGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:76: warning: Member setWestGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:24: warning: Member northGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:25: warning: Member eastGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:26: warning: Member southGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:27: warning: Member westGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:48: warning: Member interactables (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:30: warning: Member roomDescription (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:14: warning: Member roomNumber (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:15: warning: Member roomName (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:16: warning: Member northRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:17: warning: Member southRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:18: warning: Member eastRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:19: warning: Member westRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:20: warning: Member firstRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:21: warning: Member lastRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Trap.h:18: warning: Member Trap(const Riddle &riddle, const string &deathMessage) (function) of class Trap is not documented.
+/home/jp/Documents/project-1/include/Trap.h:21: warning: Member getTrapRiddle() const (function) of class Trap is not documented.
+/home/jp/Documents/project-1/include/Trap.h:22: warning: Member getTrapDeathMessage() const (function) of class Trap is not documented.
+/home/jp/Documents/project-1/include/Trap.h:23: warning: Member isTrapActivated() const (function) of class Trap is not documented.
+/home/jp/Documents/project-1/include/Trap.h:26: warning: Member setTrapRiddle(const Riddle &riddle) (function) of class Trap is not documented.
+/home/jp/Documents/project-1/include/Trap.h:27: warning: Member setTrapDeathMessage(const string &deathMessage) (function) of class Trap is not documented.
+/home/jp/Documents/project-1/include/Trap.h:28: warning: Member setTrapActivated(bool activated) (function) of class Trap is not documented.
+/home/jp/Documents/project-1/include/Trap.h:31: warning: Member attemptToSolve(const string &answer) (function) of class Trap is not documented.
+/home/jp/Documents/project-1/include/Trap.h:12: warning: Member trapRiddle (variable) of class Trap is not documented.
+/home/jp/Documents/project-1/include/Trap.h:13: warning: Member trapDeathMessage (variable) of class Trap is not documented.
+/home/jp/Documents/project-1/include/Trap.h:14: warning: Member trapActivated (variable) of class Trap is not documented.
+/home/jp/Documents/project-1/include/TrapRoom.h:19: warning: Member TrapRoom(const std::string &roomName) (function) of class TrapRoom is not documented.
+/home/jp/Documents/project-1/include/TrapRoom.h:22: warning: Member TrapRoom(unsigned roomNumber, const std::string &roomName, const Trap &trap, const std::string &roomDescription="", bool firstRoom=false, bool lastRoom=false, Room *northRoom=nullptr, Room *eastRoom=nullptr, Room *southRoom=nullptr, Room *westRoom=nullptr, Gate *northGate=nullptr, Gate *eastGate=nullptr, Gate *southGate=nullptr, Gate *westGate=nullptr) (function) of class TrapRoom is not documented.
+/home/jp/Documents/project-1/include/TrapRoom.h:31: warning: Member getRoomTrap() const (function) of class TrapRoom is not documented.
+/home/jp/Documents/project-1/include/TrapRoom.h:34: warning: Member trapIsActive() const (function) of class TrapRoom is not documented.
+/home/jp/Documents/project-1/include/TrapRoom.h:37: warning: Member setTrapActive(bool isActive) (function) of class TrapRoom is not documented.
+/home/jp/Documents/project-1/include/Room.h:45: warning: Member getRoomNumber() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:46: warning: Member getRoomName() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:49: warning: Member AddInteractable(const Interactable &interactable) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:52: warning: Member getRoomDescription() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:53: warning: Member getNorthRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:54: warning: Member getSouthRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:55: warning: Member getEastRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:56: warning: Member getWestRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:57: warning: Member isFirstRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:58: warning: Member isLastRoom() const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:61: warning: Member setRoomDescription(const string &description) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:62: warning: Member setNorthRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:63: warning: Member setSouthRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:64: warning: Member setEastRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:65: warning: Member setWestRoom(Room *room) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:66: warning: Member setFirstRoom(bool is_first) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:67: warning: Member setLastRoom(bool is_last) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:70: warning: Member hasGateInDirection(const string &direction) const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:71: warning: Member isGateLockedInDirection(const string &direction) const (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:72: warning: Member getGateInDirection(const string &direction) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:73: warning: Member setNorthGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:74: warning: Member setEastGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:75: warning: Member setSouthGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:76: warning: Member setWestGate(Gate *gate) (function) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:24: warning: Member northGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:25: warning: Member eastGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:26: warning: Member southGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:27: warning: Member westGate (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:48: warning: Member interactables (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:30: warning: Member roomDescription (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/TrapRoom.h:11: warning: Member roomTrap (variable) of class TrapRoom is not documented.
+/home/jp/Documents/project-1/include/TrapRoom.h:12: warning: Member isTrapActive (variable) of class TrapRoom is not documented.
+/home/jp/Documents/project-1/include/Room.h:14: warning: Member roomNumber (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:15: warning: Member roomName (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:16: warning: Member northRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:17: warning: Member southRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:18: warning: Member eastRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:19: warning: Member westRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:20: warning: Member firstRoom (variable) of class Room is not documented.
+/home/jp/Documents/project-1/include/Room.h:21: warning: Member lastRoom (variable) of class Room is not documented.
